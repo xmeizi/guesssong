@@ -1,0 +1,11 @@
+{
+  "skins": {},
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "resource/skin/LevelIconSkin.exml",
+    "resource/skin/SceneBeginSkin.exml",
+    "resource/skin/SceneGameSkin.exml",
+    "resource/skin/SceneLevel.exml",
+    "resource/skin/WordlabelSkin.exml"
+  ]
+}

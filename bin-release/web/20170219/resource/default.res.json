@@ -1,0 +1,115 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,bg_png,element_png,fankui_png,dir_png,gray_png,green_png,lightblue_png,orange_png,purple_png,red_png,yellow_png,scenebeginbtn_png,levels_json,mask_png,backbtn_png,cage0_png,cage1_png,kindsof_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/element.png",
+			"type": "image",
+			"name": "element_png"
+		},
+		{
+			"url": "assets/fankui.png",
+			"type": "image",
+			"name": "fankui_png"
+		},
+		{
+			"url": "assets/dir.png",
+			"type": "image",
+			"name": "dir_png"
+		},
+		{
+			"url": "assets/gray.png",
+			"type": "image",
+			"name": "gray_png"
+		},
+		{
+			"url": "assets/green.png",
+			"type": "image",
+			"name": "green_png"
+		},
+		{
+			"url": "assets/lightblue.png",
+			"type": "image",
+			"name": "lightblue_png"
+		},
+		{
+			"url": "assets/orange.png",
+			"type": "image",
+			"name": "orange_png"
+		},
+		{
+			"url": "assets/purple.png",
+			"type": "image",
+			"name": "purple_png"
+		},
+		{
+			"url": "assets/red.png",
+			"type": "image",
+			"name": "red_png"
+		},
+		{
+			"url": "assets/yellow.png",
+			"type": "image",
+			"name": "yellow_png"
+		},
+		{
+			"url": "assets/scenebeginbtn.png",
+			"type": "image",
+			"name": "scenebeginbtn_png"
+		},
+		{
+			"url": "config/levels.json",
+			"type": "json",
+			"name": "levels_json"
+		},
+		{
+			"url": "assets/mask.png",
+			"type": "image",
+			"name": "mask_png"
+		},
+		{
+			"url": "assets/backbtn.png",
+			"type": "image",
+			"name": "backbtn_png"
+		},
+		{
+			"url": "assets/cage0.png",
+			"type": "image",
+			"name": "cage0_png"
+		},
+		{
+			"url": "assets/cage1.png",
+			"type": "image",
+			"name": "cage1_png"
+		},
+		{
+			"url": "assets/kindsof.png",
+			"type": "image",
+			"name": "kindsof_png"
+		}
+	]
+}

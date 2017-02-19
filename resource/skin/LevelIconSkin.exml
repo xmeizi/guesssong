@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LevelIconSkin" states="up,down,disabled" currentState="disabled" minHeight="56" minWidth="56" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Image id="yellow" source="resource/assets/yellow.png" horizontalCenter="0" verticalCenter="0" includeIn="up,down"/>
+    <e:Image id="gray" source="resource/assets/gray.png" includeIn="disabled" horizontalCenter="0" verticalCenter="0" />
+</e:Skin>

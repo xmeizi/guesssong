@@ -1,0 +1,26 @@
+{
+  "skins": {},
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    {
+      "path": "resource/skin/LevelIconSkin.exml",
+      "content": "<?xml version='1.0' encoding='utf-8'?>\n<e:Skin class=\"LevelIconSkin\" states=\"up,down,disabled\" currentState=\"disabled\" minHeight=\"56\" minWidth=\"56\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n    <e:Image id=\"yellow\" source=\"resource/assets/yellow.png\" horizontalCenter=\"0\" verticalCenter=\"0\" includeIn=\"up,down\"/>\n    <e:Image id=\"gray\" source=\"resource/assets/gray.png\" includeIn=\"disabled\" horizontalCenter=\"0\" verticalCenter=\"0\" />\n</e:Skin>"
+    },
+    {
+      "path": "resource/skin/SceneBeginSkin.exml",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"SceneBeginSkin\" width=\"542\" height=\"801\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<w:Config id=\"158f5f0deec\"/>\n    <e:Label id=\"selLabel\" height=\"53\" width=\"53\" verticalAlign=\"0\"  horizontalCenter=\"0.5\"/>\n    <e:Image source=\"resource/assets/bg.png\" x=\"0\" y=\"-1\" height=\"1037\" width=\"1036\" visible=\"true\" anchorOffsetX=\"0\" anchorOffsetY=\"0\"/>\n</e:Skin>\n\n\n"
+    },
+    {
+      "path": "resource/skin/SceneGameSkin.exml",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"SceneGameSkin\" width=\"542\" height=\"801\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<w:Config id=\"159017839f6\"/>\n\t<e:Image width=\"1128\" height=\"1069\" source=\"resource/assets/fankui.png\" visible=\"true\" anchorOffsetX=\"0\" anchorOffsetY=\"0\"/>\n\t<e:Image width=\"490\" height=\"201\" y=\"58\" source=\"resource/assets/mask.png\" visible=\"true\" anchorOffsetX=\"0\" anchorOffsetY=\"0\" horizontalCenter=\"3\"/>\n\t<e:Image width=\"492\" height=\"84\" y=\"360\" source=\"resource/assets/mask.png\" anchorOffsetY=\"0\" horizontalCenter=\"4\" anchorOffsetX=\"0\"/>\n\t<e:Image width=\"496\" height=\"253.81\" y=\"476\" visible=\"true\" source=\"resource/assets/mask.png\" anchorOffsetY=\"0\" horizontalCenter=\"5\" scaleY=\"1.13\" anchorOffsetX=\"0\"/>\n\t<e:List id=\"list_sel\" width=\"468\" height=\"49.78\" x=\"40\" y=\"374\" anchorOffsetX=\"0\" anchorOffsetY=\"0\" visible=\"true\" scaleY=\"1.08\"/>\n\t<e:List id=\"list_confuse\" width=\"469\" height=\"245\" x=\"41\" y=\"498\" anchorOffsetX=\"0\" anchorOffsetY=\"0\" visible=\"true\"/>\n\t<e:Image id=\"retrybtn\" width=\"152\" height=\"155\" y=\"226\" source=\"resource/assets/retrybtn.png\" anchorOffsetX=\"0\" anchorOffsetY=\"0\" horizontalCenter=\"0\"/>\n\t<e:Image id=\"backbtn\" width=\"53\" height=\"52\" x=\"10\" y=\"5\" source=\"resource/assets/backbtn.png\"/>\n\t<e:Group id=\"winUI\" width=\"542\" height=\"801\" x=\"0\" y=\"0\" visible=\"false\">\n\t\t<e:Image width=\"542\" height=\"801\" y=\"0\" x=\"0\" source=\"resource/assets/pixel.png\" fillMode=\"repeat\"/>\n\t\t<e:Image width=\"328\" height=\"455\" y=\"106\" x=\"107\" source=\"resource/assets/winUI.png\"/>\n\t\t<e:Label id=\"sonename\" text=\"\" width=\"328\" textAlign=\"center\" height=\"50\" x=\"105\" y=\"179\" textColor=\"0xffea7f\" size=\"35\" bold=\"true\"/>\n\t\t<e:Label id=\"tip\" text=\"\" width=\"328\" textAlign=\"center\" height=\"30\" x=\"107\" y=\"264\"/>\n\t\t<e:Button id=\"mainUIbtn\" label=\"\" x=\"190\" y=\"383\" width=\"175\" height=\"60\">\n\t\t\t<e:skinName>\n\t\t\t\t<e:Skin states=\"up,down,disabled\">\n\t\t\t\t<e:Image width=\"100%\" height=\"100%\" source=\"resource/assets/mainbtn.png\"/>\n\t\t\t\t<e:Label id=\"labelDisplay\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t\t\t</e:Skin>\n\t\t\t</e:skinName>\n\t\t</e:Button>\n\t\t<e:Button id=\"nextItembtn\" label=\"\" x=\"191\" y=\"470\">\n\t\t\t<e:skinName>\n\t\t\t\t<e:Skin states=\"up,down,disabled\">\n\t\t\t\t<e:Image width=\"100%\" height=\"100%\" source=\"resource/assets/nextItembtn.png\"/>\n\t\t\t\t<e:Label id=\"labelDisplay\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t\t\t</e:Skin>\n\t\t\t</e:skinName>\n\t\t</e:Button>\n\t</e:Group>\t\n</e:Skin>"
+    },
+    {
+      "path": "resource/skin/SceneLevel.exml",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"SceneLevel\" width=\"542\" height=\"801\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n    <e:Image source=\"resource/assets/fankui.png\" x=\"-32.11\" y=\"-40.06\" height=\"929\"  anchorOffsetX=\"-16.52\" anchorOffsetY=\"-26.67\" width=\"995.53\" visible=\"true\" scaleX=\"1.22\" scaleY=\"1.12\"/>\n\t<e:Scroller id=\"scroller\" width=\"542\" height=\"801\" x=\"0\" y=\"0\"  top=\"0\" bottom=\"0\" right=\"0\" left=\"0\">\n\t</e:Scroller>\n</e:Skin>"
+    },
+    {
+      "path": "resource/skin/WordlabelSkin.exml",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"WordlabelSkin\" width=\"53\" height=\"53\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n    <e:Image id=\"wordBg\" width=\"100%\" height=\"100%\" source=\"resource/assets/cage1.png\"/>\n\t<e:Label id=\"wordLabel\" text=\"\" x=\"0\" y=\"0\" width=\"53\" height=\"53\" textAlign=\"center\" verticalAlign=\"middle\"/>\n</e:Skin>"
+    }
+  ]
+}

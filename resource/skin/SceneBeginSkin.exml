@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneBeginSkin" width="542" height="801" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="158f5f0deec"/>
+    <e:Label id="selLabel" height="53" width="53" verticalAlign="0"  horizontalCenter="0.5"/>
+    <e:Image source="resource/assets/bg.png" x="0" y="-1" height="1037" width="1036" visible="true" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>
+
+

@@ -1,0 +1,1606 @@
+{
+  "document": {
+    "Level": [
+      {
+        "-name": "1",
+        "song_name": "当",
+        "file_name": "a032.mp3",
+        "voice": "b032.mp3",
+        "tips": "动力火车",
+        "confuse_word": "当爱铛问奔伤鱼火美怯你我他等痛归慌痒热冷家情仇愿"
+      },
+      {
+        "-name": "2",
+        "song_name": "最炫民族风",
+        "file_name": "a044.mp3",
+        "voice": "b044.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "最炫民族风我要去西藏你从草原来爱情买卖青青河边草"
+      },
+      {
+        "-name": "3",
+        "song_name": "菊花台",
+        "file_name": "a183.mp3",
+        "voice": "b183.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "菊花台七里香青花瓷兰亭序三国恋东风破爱太痛刀马残"
+      },
+      {
+        "-name": "4",
+        "song_name": "月亮之上",
+        "file_name": "a042.mp3",
+        "voice": "b042.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "月亮之上儿弯弯自由飞翔彩云之南青藏高原自在金箍棒"
+      },
+      {
+        "-name": "5",
+        "song_name": "江南",
+        "file_name": "a084.mp3",
+        "voice": "b084.mp3",
+        "tips": "林俊杰",
+        "confuse_word": "江南庐州月候鸟曹操烟雨春泥夜曲断点彩虹稻香浅唱火"
+      },
+      {
+        "-name": "6",
+        "song_name": "一千年以后",
+        "file_name": "a085.mp3",
+        "voice": "b085.mp3",
+        "tips": "林俊杰",
+        "confuse_word": "一千年以后美丽的神话秋天童星月等回泪梦眼万穿越爱"
+      },
+      {
+        "-name": "7",
+        "song_name": "伤心太平洋",
+        "file_name": "a114.mp3",
+        "voice": "b114.mp3",
+        "tips": "任贤齐",
+        "confuse_word": "伤心太平洋寂寞沙洲冷爱的华尔兹青春纪念册北斗星痛"
+      },
+      {
+        "-name": "8",
+        "song_name": "发如雪",
+        "file_name": "a182.mp3",
+        "voice": "b182.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "发如雪菊花台七里香青花瓷兰亭序三国恋迷迭香大玩家"
+      },
+      {
+        "-name": "9",
+        "song_name": "爱情三十六计",
+        "file_name": "a013.mp3",
+        "voice": "b013.mp3",
+        "tips": "蔡依林",
+        "confuse_word": "爱情三十六计就像游戏马德里不思议一场梦看我七二变"
+      },
+      {
+        "-name": "10",
+        "song_name": "月亮代表我的心",
+        "file_name": "a027.mp3",
+        "voice": "b027.mp3",
+        "tips": "邓丽君",
+        "confuse_word": "月亮代表我的心十五但愿人长久你看脸弯弯里都是惹祸"
+      },
+      {
+        "-name": "11",
+        "song_name": "十年",
+        "file_name": "a022.mp3",
+        "voice": "b022.mp3",
+        "tips": "陈奕迅",
+        "confuse_word": "十年过火看透命运明今日浮夸知足道满春泥天里断点破"
+      },
+      {
+        "-name": "12",
+        "song_name": "暗香",
+        "file_name": "a116.mp3",
+        "voice": "b116.mp3",
+        "tips": "沙宝亮",
+        "confuse_word": "暗香让爱冬眠新不了情拯救催眠缺氧稻下沙小薇离歌昏"
+      },
+      {
+        "-name": "13",
+        "song_name": "七里香",
+        "file_name": "a184.mp3",
+        "voice": "b184.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "七里香青花瓷兰亭序三国恋东风破爱太痛刀马旦迷迭香"
+      },
+      {
+        "-name": "14",
+        "song_name": "青花瓷",
+        "file_name": "a185.mp3",
+        "voice": "b185.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "青花瓷兰亭序三国恋东风破爱太痛刀马旦迷迭香大玩家"
+      },
+      {
+        "-name": "15",
+        "song_name": "爱如潮水",
+        "file_name": "a191.mp3",
+        "voice": "b191.mp3",
+        "tips": "张信哲",
+        "confuse_word": "爱如潮水做你的男人情非得已上海姑娘曾经最美我相信"
+      },
+      {
+        "-name": "16",
+        "song_name": "光辉岁月",
+        "file_name": "a001.mp3 ",
+        "voice": "b001.mp3",
+        "tips": "Beyond",
+        "confuse_word": "光辉岁月风往北吹如歌命运派对一生奉献阳光在风雨中"
+      },
+      {
+        "-name": "17",
+        "song_name": "千年等一回",
+        "file_name": "a045.mp3",
+        "voice": "b045.mp3",
+        "tips": "高胜美",
+        "confuse_word": "千年等一回潇洒走新白娘子传奇酒干倘卖无伤心太平洋"
+      },
+      {
+        "-name": "18",
+        "song_name": "童话",
+        "file_name": "a048.mp3",
+        "voice": "b048.mp3",
+        "tips": "光良 ",
+        "confuse_word": "童话拯救偏爱兄弟断点江南冰雨夜曲浮夸小薇问情红日"
+      },
+      {
+        "-name": "19",
+        "song_name": "单身情歌",
+        "file_name": "a086.mp3",
+        "voice": "b086.mp3",
+        "tips": "林志炫",
+        "confuse_word": "单身情歌电台背叛肉麻没有告诉你浪人想的夜公害一个"
+      },
+      {
+        "-name": "20",
+        "song_name": "心太软",
+        "file_name": "a115.mp3",
+        "voice": "b115.mp3",
+        "tips": "任贤齐",
+        "confuse_word": "心太软胆小鬼我和你酒窝哲学家发现爱下雨天使少年游"
+      },
+      {
+        "-name": "21",
+        "song_name": "爱就一个字",
+        "file_name": "a190.mp3",
+        "voice": "b190.mp3",
+        "tips": "张信哲",
+        "confuse_word": "爱就一个字再回到从前天使的眼泪一路上有你饿狼传说"
+      },
+      {
+        "-name": "22",
+        "song_name": "雨一直下",
+        "file_name": "a195.mp3",
+        "voice": "b195.mp3",
+        "tips": "张宇",
+        "confuse_word": "雨一直下曲终人散用心良苦一言难尽回头太难爱情条约"
+      },
+      {
+        "-name": "23",
+        "song_name": "流星雨",
+        "file_name": "a004.mp3",
+        "voice": "b004.mp3",
+        "tips": "F4",
+        "confuse_word": "流星雨东邪西毒下天小情歌樱花草空水月神话一直美丽"
+      },
+      {
+        "-name": "24",
+        "song_name": "因为爱情",
+        "file_name": "a023.mp3",
+        "voice": "b023.mp3",
+        "tips": "陈奕迅，王菲",
+        "confuse_word": "因为爱情买卖如果这就是类似等你我曲终人散也听说一"
+      },
+      {
+        "-name": "25",
+        "song_name": "同桌的你",
+        "file_name": "a065.mp3",
+        "voice": "b065.mp3",
+        "tips": "老狼",
+        "confuse_word": "同桌的你童年故事涛声依旧滚滚红尘天若有情也许不易"
+      },
+      {
+        "-name": "26",
+        "song_name": "勇气",
+        "file_name": "a082.mp3",
+        "voice": "b082.mp3",
+        "tips": "梁静茹",
+        "confuse_word": "勇气听海敢忘记情歌流年旋木彩虹后来红日遇见绿光得"
+      },
+      {
+        "-name": "27",
+        "song_name": "男人哭吧不是罪",
+        "file_name": "a091.mp3",
+        "voice": "b091.mp3",
+        "tips": "刘德华",
+        "confuse_word": "男人哭吧不是罪被风吹过的夏天让我欢喜让我忧女笑过"
+      },
+      {
+        "-name": "28",
+        "song_name": "海阔天空",
+        "file_name": "a002.mp3",
+        "voice": "b002.mp3",
+        "tips": "Beyond",
+        "confuse_word": "海阔天空我的大光明红日不落高地厚飞得更相信自己浪"
+      },
+      {
+        "-name": "29",
+        "song_name": "小酒窝",
+        "file_name": "a015.mp3",
+        "voice": "b015.mp3",
+        "tips": "蔡卓妍、林俊杰",
+        "confuse_word": "小酒窝期待爱睫毛弯弯长简单未成年很美大手拉你的杯"
+      },
+      {
+        "-name": "30",
+        "song_name": "最初的梦想",
+        "file_name": "a033.mp3",
+        "voice": "b033.mp3",
+        "tips": "范玮琪",
+        "confuse_word": "最初的梦想隐形翅膀世界年轻战场天使微笑起点愿望念"
+      },
+      {
+        "-name": "31",
+        "song_name": "我们的爱",
+        "file_name": "a036.mp3",
+        "voice": "b036.mp3",
+        "tips": "飞儿乐团",
+        "confuse_word": "我们的爱情歌你微笑千年之恋很他真地图把放开甜蜜曲"
+      },
+      {
+        "-name": "32",
+        "song_name": "曹操",
+        "file_name": "a083.mp3",
+        "voice": "b083.mp3",
+        "tips": "林俊杰",
+        "confuse_word": "曹操三国刀剑如梦天下将军令黄金甲精忠报国王妃无双"
+      },
+      {
+        "-name": "33",
+        "song_name": "爱你一万年",
+        "file_name": "a088.mp3",
+        "voice": "b088.mp3",
+        "tips": "刘德华",
+        "confuse_word": "爱你一万年眼千以后那么为什公转自转路上有我还是他"
+      },
+      {
+        "-name": "34",
+        "song_name": "后来",
+        "file_name": "a095.mp3",
+        "voice": "b095.mp3",
+        "tips": "刘若英",
+        "confuse_word": "后来听说冲动玩笑怎样笔记寓言白狐童年征服暗香鸭子"
+      },
+      {
+        "-name": "35",
+        "song_name": "同一首歌",
+        "file_name": "a099.mp3",
+        "voice": "b099.mp3",
+        "tips": "毛阿敏",
+        "confuse_word": "同一首歌想唱就唱为你写诗的响亮爱在深秋从头再来样"
+      },
+      {
+        "-name": "36",
+        "song_name": "离歌",
+        "file_name": "a146.mp3",
+        "voice": "b146.mp3",
+        "tips": "信乐团",
+        "confuse_word": "离歌天高地厚海阔空死了都要爱千年之恋空之城性不改"
+      },
+      {
+        "-name": "37",
+        "song_name": "画心",
+        "file_name": "a163.mp3",
+        "voice": "b163.mp3",
+        "tips": "张靓颖",
+        "confuse_word": "画心情皮唯爱木兰星极乐为难求佛勇气听海甜蜜梦田歌"
+      },
+      {
+        "-name": "38",
+        "song_name": "荷塘月色",
+        "file_name": "a039.mp3",
+        "voice": "b039.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "荷塘月色梦里水乡烟花易冷清明雨上再别康桥满西楼火"
+      },
+      {
+        "-name": "39",
+        "song_name": "新鸳鸯蝴蝶梦",
+        "file_name": "a055.mp3",
+        "voice": "b055.mp3",
+        "tips": "黄安",
+        "confuse_word": "新鸳鸯蝴蝶梦我们的纪念日谁眼泪在飞爱你胜过自己她"
+      },
+      {
+        "-name": "40",
+        "song_name": "没那么简单",
+        "file_name": "a060.mp3",
+        "voice": "b060.mp3",
+        "tips": "黄小琥",
+        "confuse_word": "没那么简单夏天的风下一个天亮不要对他说情歌两三首"
+      },
+      {
+        "-name": "41",
+        "song_name": "难忘今宵",
+        "file_name": "a066.mp3",
+        "voice": "b066.mp3",
+        "tips": "李谷一",
+        "confuse_word": "难忘今宵春天的故事妈妈的吻天下一家说再见你最珍贵"
+      },
+      {
+        "-name": "42",
+        "song_name": "宁夏",
+        "file_name": "a080.mp3",
+        "voice": "b080.mp3",
+        "tips": "梁静茹",
+        "confuse_word": "宁夏小小暖暖红豆情歌心墙知足天静安江南遇见后来空"
+      },
+      {
+        "-name": "43",
+        "song_name": "铁血丹心",
+        "file_name": "a117.mp3",
+        "voice": "b117.mp3",
+        "tips": "射雕英雄传",
+        "confuse_word": "铁血丹心难念的经碧海潮声曲沧海一声笑神话情话无悔"
+      },
+      {
+        "-name": "44",
+        "song_name": "绿光",
+        "file_name": "a121.mp3",
+        "voice": "b121.mp3",
+        "tips": "孙燕姿",
+        "confuse_word": "绿光燕尾蝶加速度寓言黑白直来直往漩涡奔遇见素颜相"
+      },
+      {
+        "-name": "45",
+        "song_name": "东风破",
+        "file_name": "a181.mp3",
+        "voice": "b181.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "东风破发如雪菊花台七里香青花瓷兰亭序三国恋迷迭香"
+      },
+      {
+        "-name": "46",
+        "song_name": "吻别",
+        "file_name": "a193.mp3",
+        "voice": "b193.mp3",
+        "tips": "张学友",
+        "confuse_word": "吻别祝福约定慢慢情书味道忘了哭真爱烦恼歌情人偷心"
+      },
+      {
+        "-name": "47",
+        "song_name": "浮夸",
+        "file_name": "a020.mp3",
+        "voice": "b020.mp3",
+        "tips": "陈奕迅",
+        "confuse_word": "浮夸问十年暗涌红玫瑰看穿离歌春天里烟火情红日囚鸟"
+      },
+      {
+        "-name": "48",
+        "song_name": "自由飞翔",
+        "file_name": "a043.mp3",
+        "voice": "b043.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "自由飞翔月亮之上我和草原有个约定郎的诱惑逆光奔跑"
+      },
+      {
+        "-name": "49",
+        "song_name": "青藏高原",
+        "file_name": "a052.mp3",
+        "voice": "b052.mp3",
+        "tips": "韩红",
+        "confuse_word": "青藏高原黄土高坡唐古拉风彩云之南喜马拉雅我的祖国"
+      },
+      {
+        "-name": "50",
+        "song_name": "痴心绝对",
+        "file_name": "a072.mp3",
+        "voice": "b072.mp3",
+        "tips": "李圣杰",
+        "confuse_word": "痴心绝对坚持到底断点错位节拍相见恨晚普通朋友情伤"
+      },
+      {
+        "-name": "51",
+        "song_name": "会呼吸的痛",
+        "file_name": "a079.mp3",
+        "voice": "b079.mp3",
+        "tips": "梁静茹",
+        "confuse_word": "会呼吸的痛雨季开始了欠你幸福依然在一起我最亲爱的"
+      },
+      {
+        "-name": "52",
+        "song_name": "不得不爱",
+        "file_name": "a108.mp3",
+        "voice": "b108.mp3",
+        "tips": "潘玮柏，弦子",
+        "confuse_word": "不得不爱恋爱达人让我取暖天天想你制造浪漫一生有情"
+      },
+      {
+        "-name": "53",
+        "song_name": "我的歌声里",
+        "file_name": "a113.mp3",
+        "voice": "b113.mp3",
+        "tips": "曲婉婷",
+        "confuse_word": "我的歌声里街角祝福在树上唱们说好如果没有微笑眼睛"
+      },
+      {
+        "-name": "54",
+        "song_name": "小情歌",
+        "file_name": "a119.mp3",
+        "voice": "b119.mp3",
+        "tips": "苏打绿",
+        "confuse_word": "小情歌老无与伦比的美丽健康凡人左边简单爱小酒窝向"
+      },
+      {
+        "-name": "55",
+        "song_name": "最熟悉的陌生人",
+        "file_name": "a141.mp3",
+        "voice": "b141.mp3",
+        "tips": "萧亚轩",
+        "confuse_word": "最熟悉的陌生人忽然想起你天使暂时离开炫民族风浪费"
+      },
+      {
+        "-name": "56",
+        "song_name": "听海",
+        "file_name": "a161.mp3",
+        "voice": "b161.mp3",
+        "tips": "张惠妹",
+        "confuse_word": "听海哭砂简爱瞬间说妈妈的话阔天空豚湾恋人大市蜃楼"
+      },
+      {
+        "-name": "57",
+        "song_name": "朋友",
+        "file_name": "a175.mp3",
+        "voice": "b175.mp3",
+        "tips": "周华健",
+        "confuse_word": "朋友领悟情谊别哭忘记离别黄昏累了心痛傻谁放开生活"
+      },
+      {
+        "-name": "58",
+        "song_name": "烟花易冷",
+        "file_name": "a187.mp3",
+        "voice": "b187.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "烟花易冷爱你没差千里之外我能给的把心拉近为你写诗"
+      },
+      {
+        "-name": "59",
+        "song_name": "隐形的翅膀",
+        "file_name": "a189.mp3",
+        "voice": "b189.mp3",
+        "tips": "张韶涵",
+        "confuse_word": "隐形的翅膀匿名的好友想幸福地人不要对自己说谎倔强"
+      },
+      {
+        "-name": "60",
+        "song_name": "一千个伤心的理由",
+        "file_name": "a194.mp3",
+        "voice": "b194.mp3",
+        "tips": "张学友",
+        "confuse_word": "一千个伤心的理由如果这都不算爱想和你去吹吹风情网"
+      },
+      {
+        "-name": "61",
+        "song_name": "千千阙歌",
+        "file_name": "a016.mp3",
+        "voice": "b016.mp3",
+        "tips": "陈慧娴",
+        "confuse_word": "千千阙歌星语心愿夕阳之梦醒时分声飘雪里外望空曲睡"
+      },
+      {
+        "-name": "62",
+        "song_name": "爱情转移",
+        "file_name": "a019.mp3",
+        "voice": "b019.mp3",
+        "tips": "陈奕迅",
+        "confuse_word": "爱情转移呼叫买卖非你莫属因为我们的歌等好久不见如"
+      },
+      {
+        "-name": "63",
+        "song_name": "真心英雄",
+        "file_name": "a024.mp3",
+        "voice": "b024.mp3",
+        "tips": "成龙、黄耀明、李宗盛、周华健",
+        "confuse_word": "真心英雄相信自己梦在前方海阔天空从头再来朋友别哭"
+      },
+      {
+        "-name": "64",
+        "song_name": "小薇",
+        "file_name": "a059.mp3",
+        "voice": "b059.mp3",
+        "tips": "黄品源",
+        "confuse_word": "小薇丁香花兄妹想说大海朋友后来芳伤心弟寓言自由火"
+      },
+      {
+        "-name": "65",
+        "song_name": "忘情水",
+        "file_name": "a093.mp3",
+        "voice": "b093.mp3",
+        "tips": "刘德华",
+        "confuse_word": "忘情水上海滩孤星泪蓝莲花来生缘中国人难爱想太多怀"
+      },
+      {
+        "-name": "66",
+        "song_name": "广岛之恋",
+        "file_name": "a103.mp3",
+        "voice": "b103.mp3",
+        "tips": "莫文蔚，张洪量",
+        "confuse_word": "广岛之恋分开旅行好心手你最珍贵让我爱因为情不得不"
+      },
+      {
+        "-name": "67",
+        "song_name": "你是我的玫瑰花",
+        "file_name": "a109.mp3",
+        "voice": "b109.mp3",
+        "tips": "庞龙",
+        "confuse_word": "你是我的玫瑰花九百九十朵路边野不要采长满野小径草"
+      },
+      {
+        "-name": "68",
+        "song_name": "遇见",
+        "file_name": "a122.mp3",
+        "voice": "b122.mp3",
+        "tips": "孙燕姿",
+        "confuse_word": "遇见雨天飘着怎样安静原谅星光情歌逆光开始懂了旋木"
+      },
+      {
+        "-name": "69",
+        "song_name": "王妃",
+        "file_name": "a136.mp3",
+        "voice": "b136.mp3",
+        "tips": "萧敬腾",
+        "confuse_word": "王妃我的美霸占据别姬如果姐妹黑色幽默新不了情夜太"
+      },
+      {
+        "-name": "70",
+        "song_name": "因为爱所以爱",
+        "file_name": "a143.mp3",
+        "voice": "b143.mp3",
+        "tips": "谢霆锋",
+        "confuse_word": "因为爱所以爱中国人边走边情伤心开唱假天真不可一世"
+      },
+      {
+        "-name": "71",
+        "song_name": "情非得已",
+        "file_name": "a158.mp3",
+        "voice": "b158.mp3",
+        "tips": "庾澄庆",
+        "confuse_word": "情非得已让我一次爱个够流星雨歌你莫属意的笑经结束"
+      },
+      {
+        "-name": "72",
+        "song_name": "日不落",
+        "file_name": "a014.mp3",
+        "voice": "b014.mp3",
+        "tips": "蔡依林",
+        "confuse_word": "日不落坏天使就是爱发现说爱你遇上棉花糖转角翅膀光"
+      },
+      {
+        "-name": "73",
+        "song_name": "路边的野花不要采",
+        "file_name": "a026.mp3",
+        "voice": "b026.mp3",
+        "tips": "邓丽君",
+        "confuse_word": "路边的野花不要采恰似你的温柔漫步人生路小城故事菊"
+      },
+      {
+        "-name": "74",
+        "song_name": "征服",
+        "file_name": "a107.mp3",
+        "voice": "b107.mp3",
+        "tips": "那英",
+        "confuse_word": "征服做错拯救出卖屋顶约定懂你花心短发候鸟鸭子后来"
+      },
+      {
+        "-name": "75",
+        "song_name": "九百九十九朵玫瑰",
+        "file_name": "a123.mp3",
+        "voice": "b123.mp3",
+        "tips": "邰正宵",
+        "confuse_word": "九百九十九朵玫瑰有多少爱可以重来你是我的花羞答的"
+      },
+      {
+        "-name": "76",
+        "song_name": "我不是黄蓉",
+        "file_name": "a134.mp3",
+        "voice": "b134.mp3",
+        "tips": "王蓉",
+        "confuse_word": "我不是黄蓉爸爸妈妈爱不爱芙姐夫爱情三十六计武功哥"
+      },
+      {
+        "-name": "77",
+        "song_name": "潇洒走一回",
+        "file_name": "a154.mp3",
+        "voice": "b154.mp3",
+        "tips": "叶倩文",
+        "confuse_word": "潇洒走一回千年等小姐天涯生无悔心转意间道角遇到爱"
+      },
+      {
+        "-name": "78",
+        "song_name": "断点",
+        "file_name": "a162.mp3",
+        "voice": "b162.mp3",
+        "tips": "张敬轩",
+        "confuse_word": "断点了的弦桥残雪燃想你味道相知爱追拥有疯红色炸弹"
+      },
+      {
+        "-name": "79",
+        "song_name": "亲亲我的宝贝",
+        "file_name": "a176.mp3",
+        "voice": "b176.mp3",
+        "tips": "周华健",
+        "confuse_word": "亲亲我的宝贝爱你不在我身边们心里面永远陪伴相随烦"
+      },
+      {
+        "-name": "80",
+        "song_name": "最近比较烦",
+        "file_name": "a177.mp3",
+        "voice": "b177.mp3",
+        "tips": "周华健",
+        "confuse_word": "最近比较烦在我心里面全世界的爱好日如量闷恼多翼鸟"
+      },
+      {
+        "-name": "81",
+        "song_name": "稻香",
+        "file_name": "a180.mp3",
+        "voice": "b180.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "稻香细数男佣早安星晴眼圈西厢漂移倒带屋顶画沙红豆"
+      },
+      {
+        "-name": "82",
+        "song_name": "他一定很爱你",
+        "file_name": "a010.mp3",
+        "voice": "b010.mp3",
+        "tips": "阿杜",
+        "confuse_word": "他一定很爱你坚持到底不我可以抱吗真的受伤了痛哭吧"
+      },
+      {
+        "-name": "83",
+        "song_name": "有多少爱可以重来",
+        "file_name": "a029.mp3",
+        "voice": "b029.mp3",
+        "tips": "迪克牛仔",
+        "confuse_word": "有多少爱可以重来如果爱我的人和我的人愿意等待继续"
+      },
+      {
+        "-name": "84",
+        "song_name": "青青河边草",
+        "file_name": "a046.mp3",
+        "voice": "b046.mp3",
+        "tips": "高胜美",
+        "confuse_word": "青青河边草千年等一回野火烧不尽悠悠天不老岸水地水"
+      },
+      {
+        "-name": "85",
+        "song_name": "梅花三弄",
+        "file_name": "a061.mp3",
+        "voice": "b061.mp3",
+        "tips": "姜育恒",
+        "confuse_word": "梅花三弄伊人红妆雪中泪痕烟雨斜阳昨夜星辰天若有情"
+      },
+      {
+        "-name": "86",
+        "song_name": "冰雨",
+        "file_name": "a089.mp3",
+        "voice": "b089.mp3",
+        "tips": "刘德华",
+        "confuse_word": "冰雨吻别掌心练习蝶人火花天意十年缘分空离手愿断点"
+      },
+      {
+        "-name": "87",
+        "song_name": "爱",
+        "file_name": "a142.mp3 ",
+        "voice": "b142.mp3",
+        "tips": "小虎队",
+        "confuse_word": "爱追梦稻草人幸运草珍惜我的好心情勇气对你不完永远"
+      },
+      {
+        "-name": "88",
+        "song_name": "爱笑的眼睛",
+        "file_name": "a149.mp3",
+        "voice": "b149.mp3",
+        "tips": "徐若瑄",
+        "confuse_word": "爱笑的眼睛微哭你是我在春天看风云泪错觉狠狠爱红酒"
+      },
+      {
+        "-name": "89",
+        "song_name": "下沙",
+        "file_name": "a155.mp3",
+        "voice": "b155.mp3",
+        "tips": "游鸿明",
+        "confuse_word": "下沙一个天亮路口见要放弃漠寂寞之恋龙洲冷在唱歌听"
+      },
+      {
+        "-name": "90",
+        "song_name": "寂寞沙洲冷",
+        "file_name": "a169.mp3",
+        "voice": "b169.mp3",
+        "tips": "周传雄",
+        "confuse_word": "寂寞沙洲冷男人的海洋幸福瞬间打不开窗我心太乱暖水"
+      },
+      {
+        "-name": "91",
+        "song_name": "我爱的人",
+        "file_name": "a018.mp3",
+        "voice": "b018.mp3",
+        "tips": "陈小春",
+        "confuse_word": "我爱的人独家记忆情流感菌他不离不开你弃回没那种命"
+      },
+      {
+        "-name": "92",
+        "song_name": "香水有毒",
+        "file_name": "a054.mp3",
+        "voice": "b054.mp3",
+        "tips": "胡杨林",
+        "confuse_word": "香水有毒两只蝴蝶爱情买卖老鼠爱大米受了点伤你好痛"
+      },
+      {
+        "-name": "93",
+        "song_name": "老男孩",
+        "file_name": "a064.mp3",
+        "voice": "b064.mp3",
+        "tips": "筷子兄弟",
+        "confuse_word": "老男孩春天里那些年父亲告诉他花与剑好兄弟凡人歌小"
+      },
+      {
+        "-name": "94",
+        "song_name": "童年",
+        "file_name": "a098.mp3",
+        "voice": "b098.mp3",
+        "tips": "罗大佑",
+        "confuse_word": "童年蜗牛稻香话流故乡水手梦小草懂你兄弟浪花海自由"
+      },
+      {
+        "-name": "95",
+        "song_name": "大城小爱",
+        "file_name": "a131.mp3",
+        "voice": "b131.mp3",
+        "tips": "王力宏",
+        "confuse_word": "大城小爱盖世英雄情非得已类似爱情故事我们的歌唯一"
+      },
+      {
+        "-name": "96",
+        "song_name": "套马杆",
+        "file_name": "a135.mp3",
+        "voice": "b135.mp3",
+        "tips": "乌兰托娅",
+        "confuse_word": "套马杆月亮之上凤凰传奇都是爱花姑娘蒙古人汉子威武"
+      },
+      {
+        "-name": "97",
+        "song_name": "如果这就是爱情",
+        "file_name": "a164.mp3",
+        "voice": "b164.mp3",
+        "tips": "张靓颖",
+        "confuse_word": "如果这就是爱情木兰星画谁动了我的琴弦下个路口见到"
+      },
+      {
+        "-name": "98",
+        "song_name": "刀剑如梦",
+        "file_name": "a171.mp3",
+        "voice": "b171.mp3",
+        "tips": "周华健",
+        "confuse_word": "刀剑如梦难念的经光影十面埋伏残酷月醒时分果爱下去"
+      },
+      {
+        "-name": "99",
+        "song_name": "彩虹",
+        "file_name": "a179.mp3",
+        "voice": "b179.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "彩虹稻香细数男佣早安星晴眼圈西厢漂移倒带屋顶画沙"
+      },
+      {
+        "-name": "100",
+        "song_name": "真的爱你",
+        "file_name": "a003.mp3 ",
+        "voice": "b003.mp3",
+        "tips": "Beyond",
+        "confuse_word": "真的爱你光辉岁月旧情绵绵鸽子缘痛无声喜欢逝去恨悄"
+      },
+      {
+        "-name": "101",
+        "song_name": " 你的背包",
+        "file_name": " a021.mp3 ",
+        "voice": "b021.mp3",
+        "tips": "陈奕迅",
+        "confuse_word": "你的背包明年今日笨小孩比我幸福人来人往事吉他叛蛋"
+      },
+      {
+        "-name": "102",
+        "song_name": " 一剪梅",
+        "file_name": " a038.mp3 ",
+        "voice": "b038.mp3",
+        "tips": "费玉清",
+        "confuse_word": "一剪梅我的中国心故乡云草原没归去来花三弄月满西楼"
+      },
+      {
+        "-name": "103",
+        "song_name": " 好心情",
+        "file_name": " a071.mp3 ",
+        "voice": "b071.mp3",
+        "tips": "李玟",
+        "confuse_word": "好心情坏天气日不落纪念女孩欧若拉花田错中国话人空"
+      },
+      {
+        "-name": "104",
+        "song_name": " 爱你不是两三天",
+        "file_name": " a077.mp3 ",
+        "voice": "b077.mp3",
+        "tips": "梁静茹",
+        "confuse_word": "爱你不是两三天情十六计那么为什么被风吹过的夏到死"
+      },
+      {
+        "-name": "105",
+        "song_name": " 鸭子",
+        "file_name": " a120.mp3 ",
+        "voice": "b120.mp3",
+        "tips": "苏慧伦",
+        "confuse_word": "鸭子心跳妥协左边勇气过敏天使知足流年绿光遇见宁夏"
+      },
+      {
+        "-name": "106",
+        "song_name": " 花田错",
+        "file_name": " a133.mp3 ",
+        "voice": "b133.mp3",
+        "tips": "王力宏",
+        "confuse_word": "花田错在梅边哥们儿星座你不在木兰错错花泪遥远地方"
+      },
+      {
+        "-name": "107",
+        "song_name": " 明明白白我的心",
+        "file_name": " a165.mp3 ",
+        "voice": "b165.mp3",
+        "tips": "成龙，陈淑桦",
+        "confuse_word": "明明白白我的心选择好想念你很爱情月光梦醒时分走路"
+      },
+      {
+        "-name": "108",
+        "song_name": " 偏爱",
+        "file_name": " a197.mp3 ",
+        "voice": "b197.mp3",
+        "tips": "张芸京",
+        "confuse_word": "偏爱春泥坏了情人喘息夜光简讯燃烧好了温柔暧昧香水"
+      },
+      {
+        "-name": "109",
+        "song_name": " 分手快乐",
+        "file_name": " a078.mp3 ",
+        "voice": "b078.mp3",
+        "tips": "梁静茹",
+        "confuse_word": "分手快乐好心我很世界末明年今日至上我怀念的合久必"
+      },
+      {
+        "-name": "110",
+        "song_name": " 一笑而过",
+        "file_name": " a106.mp3 ",
+        "voice": "b106.mp3",
+        "tips": "那英",
+        "confuse_word": "一笑而过为爱痴狂亲密爱人如潮水春暖花开雾里看花哭"
+      },
+      {
+        "-name": "111",
+        "song_name": " 我愿意",
+        "file_name": " a129.mp3 ",
+        "voice": "b129.mp3",
+        "tips": "王菲",
+        "confuse_word": "我愿意下雨天防空洞秋意浓和你红豆致青春笑忘书旋木"
+      },
+      {
+        "-name": "112",
+        "song_name": " 无所谓",
+        "file_name": " a152.mp3 ",
+        "voice": "b152.mp3",
+        "tips": "杨坤",
+        "confuse_word": "无所谓月亮可以代表我的心言的结局爱情之上满西楼黑"
+      },
+      {
+        "-name": "113",
+        "song_name": " 轻轻地告诉你",
+        "file_name": " a153.mp3 ",
+        "voice": "b153.mp3",
+        "tips": "杨钰莹",
+        "confuse_word": "轻轻地告诉你茶山情歌泉水叮咚心雨最浪漫的事我爱你"
+      },
+      {
+        "-name": "114",
+        "song_name": " 给我感觉",
+        "file_name": " a159.mp3 ",
+        "voice": "b159.mp3",
+        "tips": "张惠妹",
+        "confuse_word": "给我感觉一个忘记的理由好想你恩的心悟觉醒得爱过你"
+      },
+      {
+        "-name": "115",
+        "song_name": " 姐妹",
+        "file_name": " a160.mp3 ",
+        "voice": "b160.mp3",
+        "tips": "张惠妹",
+        "confuse_word": "姐妹姐妹站起来最饮酒歌古曲美娇娆裂痕我站在高岗上"
+      },
+      {
+        "-name": "116",
+        "song_name": " 眉飞色舞",
+        "file_name": " a167.mp3 ",
+        "voice": "b167.mp3",
+        "tips": "郑秀文",
+        "confuse_word": "眉飞色舞浪漫樱花爱了就算情万岁一夜成名星秀传说心"
+      },
+      {
+        "-name": "117",
+        "song_name": " 黄昏",
+        "file_name": " a168.mp3 ",
+        "voice": "b168.mp3",
+        "tips": "周传雄",
+        "confuse_word": "黄昏空位拒绝存在离别撕夜天黑离开痕迹色暗纸晕天涯"
+      },
+      {
+        "-name": "118",
+        "song_name": " 说好的幸福呢",
+        "file_name": " a186.mp3 ",
+        "voice": "b186.mp3",
+        "tips": "周杰伦",
+        "confuse_word": "说好的幸福呢夜第七章我们故事哪里都是你全部给人过"
+      },
+      {
+        "-name": "119",
+        "song_name": " 大海",
+        "file_name": " a196.mp3 ",
+        "voice": "b196.mp3",
+        "tips": "张雨生",
+        "confuse_word": "大海水手替身执着萍聚落叶冰点石头无题后窗渺小灵光"
+      },
+      {
+        "-name": "120",
+        "song_name": " 为你写诗",
+        "file_name": " a198.mp3 ",
+        "voice": "b198.mp3",
+        "tips": "吴克群",
+        "confuse_word": "为你写诗明天过后我能给的移动世界别太温柔爱的力量"
+      },
+      {
+        "-name": "121",
+        "song_name": " 老人与海",
+        "file_name": " a051.mp3 ",
+        "voice": "b051.mp3",
+        "tips": "海鸣威",
+        "confuse_word": "老人与海你若成风为你写诗该死的温柔情歌大月亮之上"
+      },
+      {
+        "-name": "122",
+        "song_name": " 我的眼里只有你",
+        "file_name": " a063.mp3 ",
+        "voice": "b063.mp3",
+        "tips": "景岗山",
+        "confuse_word": "我的眼里只有你野百合也有春天如果这不是爱情花会开"
+      },
+      {
+        "-name": "123",
+        "song_name": " 想太多",
+        "file_name": " a068.mp3 ",
+        "voice": "b068.mp3",
+        "tips": "李玖哲",
+        "confuse_word": "想太多路弯不完美无重力醉清风我配简单爱人计下雨天"
+      },
+      {
+        "-name": "124",
+        "song_name": " 红日",
+        "file_name": " a069.mp3 ",
+        "voice": "b069.mp3",
+        "tips": "李克勤",
+        "confuse_word": "红日浮夸安妮豆解脱记得暗稻香光彩虹自由再见离歌别"
+      },
+      {
+        "-name": "125",
+        "song_name": " 新贵妃醉酒",
+        "file_name": " a076.mp3 ",
+        "voice": "b076.mp3",
+        "tips": "李玉刚",
+        "confuse_word": "新贵妃醉酒折子戏刀马旦水墨丹青寒江雪你把我灌夜月"
+      },
+      {
+        "-name": "126",
+        "song_name": " 练习",
+        "file_name": " a090.mp3 ",
+        "voice": "b090.mp3",
+        "tips": "刘德华",
+        "confuse_word": "练习冰雨囚鸟猜心约定回味天灰痛快候鸟绿洲冻结马桶"
+      },
+      {
+        "-name": "127",
+        "song_name": " 为爱痴狂",
+        "file_name": " a096.mp3 ",
+        "voice": "b096.mp3",
+        "tips": "刘若英",
+        "confuse_word": "为爱痴狂可惜不是你的箴言很当在靠近分开旅行如空气"
+      },
+      {
+        "-name": "128",
+        "song_name": " 新不了情",
+        "file_name": " a127.mp3 ",
+        "voice": "b127.mp3",
+        "tips": "万芳",
+        "confuse_word": "新不了情爱海滔滔受了点伤喜欢两个人鬼迷心窍你不我"
+      },
+      {
+        "-name": "129",
+        "song_name": " 甩啦甩啦",
+        "file_name": " a138.mp3 ",
+        "voice": "b138.mp3",
+        "tips": "萧亚轩",
+        "confuse_word": "甩啦甩啦花都开好了说爱你我快乐我随意进行式的头发"
+      },
+      {
+        "-name": "130",
+        "song_name": " 深呼吸",
+        "file_name": " a157.mp3 ",
+        "voice": "b157.mp3",
+        "tips": "羽泉",
+        "confuse_word": "深呼吸老男孩在一起大中国水炸弹子气他乡棉花跳时代"
+      },
+      {
+        "-name": "131",
+        "song_name": " 花心",
+        "file_name": " a172.mp3 ",
+        "voice": "b172.mp3",
+        "tips": "周华健",
+        "confuse_word": "花心海情洋大宝贝朵开放生朋友浪费世界证据组曲快乐"
+      },
+      {
+        "-name": "132",
+        "song_name": " 难念的经",
+        "file_name": " a174.mp3 ",
+        "voice": "b174.mp3",
+        "tips": "周华健",
+        "confuse_word": "难念的经刀剑如梦真心英雄天龙八部难兄弟爱到最深处"
+      },
+      {
+        "-name": "133",
+        "song_name": " 约定",
+        "file_name": " a178.mp3 ",
+        "voice": "b178.mp3",
+        "tips": "周蕙",
+        "confuse_word": "约定发现隐形瞬间我看换季知足纯真理由重遇最好分飞"
+      },
+      {
+        "-name": "134",
+        "song_name": " 你的微笑",
+        "file_name": " a037.mp3 ",
+        "voice": "b037.mp3",
+        "tips": "飞儿乐团",
+        "confuse_word": "你的微笑爱力量她睫毛我们歌声甜蜜诱惑自由飞翔温柔"
+      },
+      {
+        "-name": "135",
+        "song_name": " 对你爱不完",
+        "file_name": " a050.mp3 ",
+        "voice": "b050.mp3",
+        "tips": "郭富城",
+        "confuse_word": "对你爱不完谁是大英雄热情的沙漠爱的主打歌题曲恨我"
+      },
+      {
+        "-name": "136",
+        "song_name": " 再回首",
+        "file_name": " a062.mp3 ",
+        "voice": "b062.mp3",
+        "tips": "姜育恒",
+        "confuse_word": "再回首深呼吸女人花老男孩走天涯想太多手放开忘情水"
+      },
+      {
+        "-name": "137",
+        "song_name": " 手放开",
+        "file_name": " a073.mp3 ",
+        "voice": "b073.mp3",
+        "tips": "李圣杰",
+        "confuse_word": "手放开用心听告诉我爱相随你好毒太痛想自由逍遥叹坏"
+      },
+      {
+        "-name": "138",
+        "song_name": " 我怀念的",
+        "file_name": " a081.mp3 ",
+        "voice": "b081.mp3",
+        "tips": "孙燕姿",
+        "confuse_word": "我怀念的不难过失落沙洲你会会明天过后愚人国度分手"
+      },
+      {
+        "-name": "139",
+        "song_name": " 改变自己",
+        "file_name": " a132.mp3 ",
+        "voice": "b132.mp3",
+        "tips": "王力宏",
+        "confuse_word": "改变自己你这么美世界可以落寞小气另一个天堂那想爱"
+      },
+      {
+        "-name": "140",
+        "song_name": " 一个人的精彩",
+        "file_name": " a139.mp3 ",
+        "voice": "b139.mp3",
+        "tips": "萧亚轩",
+        "confuse_word": "一个人的精彩爱的主打歌情歌旋律色的黑狂想曲受够了"
+      },
+      {
+        "-name": "141",
+        "song_name": " 热带雨林",
+        "file_name": " a199.mp3 ",
+        "voice": "b199.mp3",
+        "tips": "SHE",
+        "confuse_word": "热带雨林月桂女神白色恋歌河滨公园月光手札独唱情歌"
+      },
+      {
+        "-name": "142",
+        "song_name": " 只对你有感觉",
+        "file_name": " a007.mp3 ",
+        "voice": "b007.mp3",
+        "tips": "Hebe，飞轮海",
+        "confuse_word": "只对你有感觉被风吹过的夏天私奔到月球错给我雨想跑"
+      },
+      {
+        "-name": "143",
+        "song_name": " 三国恋",
+        "file_name": " a009.mp3 ",
+        "voice": "b009.mp3",
+        "tips": "Tank",
+        "confuse_word": "三国恋醉赤壁念奴娇赋曹操杀清风无双四面楚歌爱酒雨"
+      },
+      {
+        "-name": "144",
+        "song_name": " 爱江山更爱美人",
+        "file_name": " a070.mp3 ",
+        "voice": "b070.mp3",
+        "tips": "李丽芬",
+        "confuse_word": "爱江山更爱美人霸王别姬新鸳鸯蝴蝶梦万水千总是情女"
+      },
+      {
+        "-name": "145",
+        "song_name": " 涛声依旧",
+        "file_name": " a100.mp3 ",
+        "voice": "b100.mp3",
+        "tips": "毛宁",
+        "confuse_word": "涛声依旧故乡的云滚滚红尘花好月圆星星点灯男人海洋"
+      },
+      {
+        "-name": "146",
+        "song_name": " 一生有你",
+        "file_name": " a118.mp3 ",
+        "voice": "b118.mp3",
+        "tips": "水木年华",
+        "confuse_word": "一生有你口是心非爱是我海滔滔路上断桥残雪那些花儿"
+      },
+      {
+        "-name": "147",
+        "song_name": " 怒放的生命",
+        "file_name": " a128.mp3 ",
+        "voice": "b128.mp3",
+        "tips": "汪峰",
+        "confuse_word": "怒放的生命我爱你生活飞得更高北京北京勇敢心春天里"
+      },
+      {
+        "-name": "148",
+        "song_name": " 客官不可以",
+        "file_name": " a148.mp3 ",
+        "voice": "b148.mp3",
+        "tips": "徐良",
+        "confuse_word": "客官不可以红装情话人再联系行啊别这样请要嘛颜坚强"
+      },
+      {
+        "-name": "149",
+        "song_name": " 因为是女子",
+        "file_name": " a005.mp3 ",
+        "voice": "b005.mp3",
+        "tips": "kiss组合",
+        "confuse_word": "因为是女子爱情否要忘记即使知道见面如果我离开买卖"
+      },
+      {
+        "-name": "150",
+        "song_name": " 你的眼神",
+        "file_name": " a011.mp3 ",
+        "voice": "b011.mp3",
+        "tips": "蔡琴",
+        "confuse_word": "你的眼神恰似温柔泪味道告白心有不甘梦醒时分如初我"
+      },
+      {
+        "-name": "151",
+        "song_name": " 白天不懂夜的黑",
+        "file_name": " a104.mp3 ",
+        "voice": "b104.mp3",
+        "tips": "那英",
+        "confuse_word": "白天不懂夜的黑月亮代表我心谁动了琴弦记住你容颜空"
+      },
+      {
+        "-name": "152",
+        "song_name": " 相思风雨中",
+        "file_name": " a125.mp3 ",
+        "voice": "b125.mp3",
+        "tips": "汤宝如，张学友",
+        "confuse_word": "相思风雨中只有情永在午夜吻别前情深海更深一生不变"
+      },
+      {
+        "-name": "153",
+        "song_name": " 苏三说",
+        "file_name": " a126.mp3 ",
+        "voice": "b126.mp3",
+        "tips": "陶喆",
+        "confuse_word": "苏三说贵妃醉酒发如雪寒江国恋普通朋友太美丽找自己"
+      },
+      {
+        "-name": "154",
+        "song_name": " 信仰",
+        "file_name": " a192.mp3 ",
+        "voice": "b192.mp3",
+        "tips": "张信哲",
+        "confuse_word": "信仰过火拾荒人海说谎逃生用情回来背叛直觉最初空位"
+      },
+      {
+        "-name": "155",
+        "song_name": " 猜不透",
+        "file_name": " a030.mp3 ",
+        "voice": "b030.mp3",
+        "tips": "丁当",
+        "confuse_word": "猜不透离人节草戒指我爱他两小无愿意日落防空洞天明"
+      },
+      {
+        "-name": "156",
+        "song_name": " 雨蝶",
+        "file_name": " a075.mp3 ",
+        "voice": "b075.mp3",
+        "tips": "李翊君",
+        "confuse_word": "雨蝶化奈何梦里当冰下蝴分飞恋萍聚温柔勇气旋木味道"
+      },
+      {
+        "-name": "157",
+        "song_name": " 爱不爱我",
+        "file_name": " a087.mp3 ",
+        "voice": "b087.mp3",
+        "tips": "零点乐队",
+        "confuse_word": "爱不爱我就了等你他不愚人码头相信自己为痴狂见恨晚"
+      },
+      {
+        "-name": "158",
+        "song_name": " 如果没有你",
+        "file_name": " a102.mp3 ",
+        "voice": "b102.mp3",
+        "tips": "莫文蔚",
+        "confuse_word": "如果没有你最好的时光我们说想更懂爱还是他一路上有"
+      },
+      {
+        "-name": "159",
+        "song_name": " 爱相随",
+        "file_name": " a170.mp3 ",
+        "voice": "b170.mp3",
+        "tips": "周华健",
+        "confuse_word": "爱相随情海信自己长思我是谁别傻了风笑痴问情剑伴陪"
+      },
+      {
+        "-name": "160",
+        "song_name": " 我爱你",
+        "file_name": " a200.mp3 ",
+        "voice": "b200.mp3",
+        "tips": "SHE",
+        "confuse_word": "我爱你他还是不懂中国话长相思天亮了紫藤花波斯猫心"
+      },
+      {
+        "-name": "161",
+        "song_name": " 白狐",
+        "file_name": " a017.mp3 ",
+        "voice": "b017.mp3",
+        "tips": "陈瑞",
+        "confuse_word": "白狐尘缘往事随风流年飞羽四海大约定会仙漂妖黑纷奔"
+      },
+      {
+        "-name": "162",
+        "song_name": " 三万英尺",
+        "file_name": " a028.mp3 ",
+        "voice": "b028.mp3",
+        "tips": "迪克牛仔",
+        "confuse_word": "三万英尺天高地厚用心良苦曲终人散一言难尽雄国里甜"
+      },
+      {
+        "-name": "163",
+        "song_name": " 你的甜蜜",
+        "file_name": " a034.mp3 ",
+        "voice": "b034.mp3",
+        "tips": "范晓萱",
+        "confuse_word": "你的甜蜜柠檬树喔蜜我爱情们怀念思念背包人眼神感觉"
+      },
+      {
+        "-name": "164",
+        "song_name": " 你把我灌醉",
+        "file_name": " a056.mp3 ",
+        "voice": "b056.mp3",
+        "tips": "黄大炜",
+        "confuse_word": "你把我灌醉酒的探戈是眼那就这样吧怎么舍得难过不样"
+      },
+      {
+        "-name": "165",
+        "song_name": " 类似爱情",
+        "file_name": " a137.mp3 ",
+        "voice": "b137.mp3",
+        "tips": "萧亚轩",
+        "confuse_word": "类似爱情天使暂时离开卡布其诺仙剑问情我还记得你后"
+      },
+      {
+        "-name": "166",
+        "song_name": " 味道",
+        "file_name": " a145.mp3 ",
+        "voice": "b145.mp3",
+        "tips": "辛晓琪",
+        "confuse_word": "味道烟草走过无声语领悟曾经可爱的玫瑰花至少还有你"
+      },
+      {
+        "-name": "167",
+        "song_name": " 素颜",
+        "file_name": " a151.mp3 ",
+        "voice": "b151.mp3",
+        "tips": "许嵩，何曼婷",
+        "confuse_word": "素颜城府你若成风闺蜜红市猎人是我的眼相惜人礼麦浪"
+      },
+      {
+        "-name": "168",
+        "song_name": " 遗失的美好",
+        "file_name": " a166.mp3 ",
+        "voice": "b166.mp3",
+        "tips": "张韶涵",
+        "confuse_word": "遗失的美好最初梦想海豚湾恋人现在我们女生烦恼感动"
+      },
+      {
+        "-name": "169",
+        "song_name": " 痒",
+        "file_name": " a057.mp3 ",
+        "voice": "b057.mp3",
+        "tips": "黄龄",
+        "confuse_word": "痒当爱铛问奔伤鱼火美怯你我他等痛归慌热冷家情仇愿"
+      },
+      {
+        "-name": "170",
+        "song_name": " 爱爱爱",
+        "file_name": " a035.mp3 ",
+        "voice": "b035.mp3",
+        "tips": "方大同",
+        "confuse_word": "爱爱爱我你她他桃花开唯有疯狂朵柠檬树一剪梅归去来"
+      },
+      {
+        "-name": "171",
+        "song_name": " 金箍棒",
+        "file_name": " a047.mp3 ",
+        "voice": "b047.mp3",
+        "tips": "龚琳娜",
+        "confuse_word": "金箍棒忐忑法海不懂爱花果山白龙马老男孩好心情棒糖"
+      },
+      {
+        "-name": "172",
+        "song_name": " 归去来",
+        "file_name": " a053.mp3 ",
+        "voice": "b053.mp3",
+        "tips": "胡兵，希莉娜依",
+        "confuse_word": "归去来珊瑚海少年游菊花台牡丹江逍遥叹东风破太湖美"
+      },
+      {
+        "-name": "173",
+        "song_name": " 山不转水转",
+        "file_name": " a105.mp3 ",
+        "voice": "b105.mp3",
+        "tips": "那英",
+        "confuse_word": "山不转水转我只在乎你大约冬季相思风雨中城里的月光"
+      },
+      {
+        "-name": "174",
+        "song_name": " 相见恨晚",
+        "file_name": " a110.mp3 ",
+        "voice": "b110.mp3",
+        "tips": "彭佳慧",
+        "confuse_word": "相见恨晚温室花朵喜欢两个人小城故事一笑而过生有你"
+      },
+      {
+        "-name": "175",
+        "song_name": " 外面的世界",
+        "file_name": " a111.mp3 ",
+        "voice": "b111.mp3",
+        "tips": "齐秦",
+        "confuse_word": "外面的世界我又初恋了该死温柔心中日月你是我末日里"
+      },
+      {
+        "-name": "176",
+        "song_name": " 千纸鹤",
+        "file_name": " a124.mp3 ",
+        "voice": "b124.mp3",
+        "tips": "邰正宵",
+        "confuse_word": "千纸鹤苏三说我愿意花田错套马杆无所谓爱相随归去来"
+      },
+      {
+        "-name": "177",
+        "song_name": " 旋木",
+        "file_name": " a130.mp3 ",
+        "voice": "b130.mp3",
+        "tips": "王菲",
+        "confuse_word": "旋木阴天人间推翻影子蝴蝶暧昧心墙空棋子约定我愿意"
+      },
+      {
+        "-name": "178",
+        "song_name": " 自由",
+        "file_name": " a173.mp3 ",
+        "voice": "b173.mp3",
+        "tips": "张震岳",
+        "confuse_word": "自由思念病恰恰功夫摇滚太阳离开再见隐藏寂寞沉没福"
+      },
+      {
+        "-name": "179",
+        "song_name": " 我爱他",
+        "file_name": " a006.mp3 ",
+        "voice": "b006.mp3",
+        "tips": "丁当",
+        "confuse_word": "我爱他来不及以为胆小鬼猜不透很爱过你是去吧恨愿意"
+      },
+      {
+        "-name": "180",
+        "song_name": " 天高地厚",
+        "file_name": " a147.mp3 ",
+        "voice": "b147.mp3",
+        "tips": "信乐团",
+        "confuse_word": "天高地厚海阔空死了都要爱千年之恋空之城球人性不改"
+      },
+      {
+        "-name": "181",
+        "song_name": " 感动天感动地",
+        "file_name": " a156.mp3 ",
+        "voice": "b156.mp3",
+        "tips": "宇桐非",
+        "confuse_word": "感动天感动地擦肩而过爱上你是我的错恩的心使的翅膀"
+      },
+      {
+        "-name": "182",
+        "song_name": " 问情",
+        "file_name": " a012.mp3 ",
+        "voice": "b012.mp3",
+        "tips": "蔡幸娟",
+        "confuse_word": "问情仙剑蝶恋千年缘梦回情醉游诛月光传说红颜刀戏说"
+      },
+      {
+        "-name": "183",
+        "song_name": " 我很快乐",
+        "file_name": " a097.mp3 ",
+        "voice": "b097.mp3",
+        "tips": "刘惜君",
+        "confuse_word": "我很快乐不难过寂寞痛好心分手那天爱情证书复刻回忆"
+      },
+      {
+        "-name": "184",
+        "song_name": " 一生爱你千百回",
+        "file_name": " a101.mp3 ",
+        "voice": "b101.mp3",
+        "tips": "梅艳芳",
+        "confuse_word": "一生爱你千百回直到亿万年洒向人间都是野合也有春天"
+      },
+      {
+        "-name": "185",
+        "song_name": " 背叛情歌",
+        "file_name": " a031.mp3 ",
+        "voice": "b031.mp3",
+        "tips": "动力火车",
+        "confuse_word": "背叛情歌认真的雪电台肉麻没有告诉你单身约定温柔下"
+      },
+      {
+        "-name": "186",
+        "song_name": " 郎的诱惑",
+        "file_name": " a040.mp3 ",
+        "voice": "b040.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "郎的诱惑狼东郭先生陌上归人风雨同路荷塘月色都是夜"
+      },
+      {
+        "-name": "187",
+        "song_name": " 世界第一等",
+        "file_name": " a092.mp3 ",
+        "voice": "b092.mp3",
+        "tips": "刘德华",
+        "confuse_word": "世界第一等爱拼才会赢伤心太平洋我恨我痴们都一样上"
+      },
+      {
+        "-name": "188",
+        "song_name": " 谢谢你的爱",
+        "file_name": " a094.mp3 ",
+        "voice": "b094.mp3",
+        "tips": "刘德华",
+        "confuse_word": "谢谢你的爱大约在冬季一万年死了都要路上有我还是他"
+      },
+      {
+        "-name": "189",
+        "song_name": " 钻石糖",
+        "file_name": " a140.mp3 ",
+        "voice": "b140.mp3",
+        "tips": "萧亚轩",
+        "confuse_word": "钻石糖甩啦甩啦一个人的精彩爱的主打歌眼泪果世界舞"
+      },
+      {
+        "-name": "190",
+        "song_name": " 辛德瑞拉",
+        "file_name": " a025.mp3 ",
+        "voice": "b025.mp3",
+        "tips": "戴佩妮",
+        "confuse_word": "辛德瑞拉怎样爱要坦荡荡的眼泪大手小哭平类似情人恨"
+      },
+      {
+        "-name": "191",
+        "song_name": " 俩俩相忘",
+        "file_name": " a144.mp3 ",
+        "voice": "b144.mp3",
+        "tips": "辛晓琪",
+        "confuse_word": "俩俩相忘可爱的玫瑰花至少还有你烟草走过无声语领悟"
+      },
+      {
+        "-name": "192",
+        "song_name": " 蜗牛与黄鹂鸟",
+        "file_name": " a188.mp3 ",
+        "voice": "b188.mp3",
+        "tips": "卓依婷",
+        "confuse_word": "蜗牛与黄鹂鸟两只老虎东南西北风让世界充满爱虫儿飞"
+      },
+      {
+        "-name": "193",
+        "song_name": " 我从草原来",
+        "file_name": " a041.mp3 ",
+        "voice": "b041.mp3",
+        "tips": "凤凰传奇",
+        "confuse_word": "我从草原来月亮之上等爱的玫瑰套马杆最炫民族风奔腾"
+      },
+      {
+        "-name": "194",
+        "song_name": " 风吹麦浪",
+        "file_name": " a067.mp3 ",
+        "voice": "b067.mp3",
+        "tips": "李健，孙俪",
+        "confuse_word": "风吹麦浪似水流年那些花儿明天过后夏的春暖开往北华"
+      },
+      {
+        "-name": "195",
+        "song_name": " 有何不可",
+        "file_name": " a150.mp3 ",
+        "voice": "b150.mp3",
+        "tips": "许嵩",
+        "confuse_word": "有何不可借有还苦要等再联系惜不是你对话老师烟花笑"
+      },
+      {
+        "-name": "196",
+        "song_name": " 如果我变成回忆",
+        "file_name": " a008.mp3 ",
+        "voice": "b008.mp3",
+        "tips": "Tank",
+        "confuse_word": "如果我变成回忆专属天使爱不想和你做朋友曾经对了的"
+      },
+      {
+        "-name": "197",
+        "song_name": " 狠不下心",
+        "file_name": " a058.mp3 ",
+        "voice": "b058.mp3",
+        "tips": "黄品源",
+        "confuse_word": "狠不下心加州旅馆风吹麦浪涛声依旧复刻回忆如刀割情"
+      },
+      {
+        "-name": "198",
+        "song_name": " 此生不换",
+        "file_name": " a112.mp3 ",
+        "voice": "b112.mp3",
+        "tips": "青鱼飞鸟",
+        "confuse_word": "此生不换海阔天空光辉岁月杀破狼醉赤壁忘记时间所爱"
+      },
+      {
+        "-name": "199",
+        "song_name": " 我的未来式",
+        "file_name": " a049.mp3 ",
+        "voice": "b049.mp3",
+        "tips": "郭采洁",
+        "confuse_word": "我的未来式年轻战场仰望星空你不知道事逆风蔷薇是梦"
+      },
+      {
+        "-name": "200",
+        "song_name": " 十分钟",
+        "file_name": " a074.mp3 ",
+        "voice": "b074.mp3",
+        "tips": "李孝利",
+        "confuse_word": "十分钟花蝴蝶美人计说爱你的恋两只超快感好心情女一"
+      }
+    ]
+  }
+}

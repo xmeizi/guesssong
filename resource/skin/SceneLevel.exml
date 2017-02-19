@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneLevel" width="542" height="801" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Image source="resource/assets/fankui.png" x="-32.11" y="-40.06" height="929"  anchorOffsetX="-16.52" anchorOffsetY="-26.67" width="995.53" visible="true" scaleX="1.22" scaleY="1.12"/>
+	<e:Scroller id="scroller" width="542" height="801" x="0" y="0"  top="0" bottom="0" right="0" left="0">
+	</e:Scroller>
+</e:Skin>
